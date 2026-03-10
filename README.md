@@ -22,4 +22,4 @@ font-size:250px;
 <h1>Yes.</h1>
 </div>
 `);
-document.close();```
+document.close();
