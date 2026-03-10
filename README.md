@@ -1,7 +1,8 @@
 # gdcolon-furry-yes
 Script:
 #
-```document.open();
+```
+document.open();
 document.write(`
 <title>Is GD Colon a furry?</title>
 <style>
